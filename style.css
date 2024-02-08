@@ -1,0 +1,14 @@
+#outer
+{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    padding: 30px;
+}
+#inner{
+    height: 30px;
+    width: 30px;
+    padding: 20px;
+    text-align: center;
+    background-color:blueviolet;
+}
